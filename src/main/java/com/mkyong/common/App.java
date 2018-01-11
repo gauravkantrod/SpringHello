@@ -11,11 +11,10 @@ public class App
 {
     public static void main( String[] args )
     {
+    	
+    	
+    	
     	System.out.println("Hello");
-    	
-    	
-    	
-    	
     	
     	
     	ApplicationContext context = new ClassPathXmlApplicationContext("Spring-Module.xml");
